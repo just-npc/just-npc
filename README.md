@@ -1,6 +1,6 @@
 ## Hi there 👋
 still learning
-![mayling](https://tenor.com/rJKPINmknpL.gif)
+![mayling](mayling-gfl.gif)
 
 pp sauce: https://www.pixiv.net/en/artworks/108231841
 <!--
