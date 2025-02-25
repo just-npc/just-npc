@@ -1,6 +1,6 @@
 ## Hi there 👋
-still learning
 ![mayling](mayling-gfl.gif)
+junior developer, still learning
 
 pp sauce: https://www.pixiv.net/en/artworks/108231841
 <!--
