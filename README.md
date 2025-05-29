@@ -8,7 +8,6 @@
 <br/>
 **junior developer, still learning**
 
-pp sauce: https://www.pixiv.net/en/artworks/108231841
 <!--
 **just-npc/just-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
