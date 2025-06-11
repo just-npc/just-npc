@@ -1,4 +1,8 @@
 ## Hi there 👋
+![mayling](mayling-gfl.gif)
+<br/>
+**junior developer, still learning**
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=just-npc&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=just-npc&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
